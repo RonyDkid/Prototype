@@ -1,0 +1,15 @@
+#map {
+    height: 100%;
+    position: relative;
+    left: 30%;
+    top: 10px;
+    width: 50%;
+    height: 50%;
+    overflow: visible !important;
+  }
+  
+
+#autoMap {
+  width: 80%;
+  height: 915px;
+}
